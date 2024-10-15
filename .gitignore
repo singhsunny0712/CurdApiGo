@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the Go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (may appear if you are using vendoring)
+vendor/
+
+# Go modules
+/go.sum
+/go.mod
+
+# IDE settings (optional, depending on the editor you use)
+/.vscode/
+/.idea/
+/*.sublime-workspace
+/*.sublime-project
+
+# Log files
+*.log
+
+# Local environment files
